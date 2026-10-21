@@ -2,7 +2,7 @@
 **Principal Engineer & Enterprise Technical Architect** | *IIT Jodhpur MBA '26*  
 *Architecting Enterprise Tech Solutions on Multi-Cloud, CRM, & AI Platforms*
 
-[![Salesforce](https://img.shields.io/badge/Salesforce-4x%20Certified-00A1E0?style=flat&logo=salesforce)](#)
+[![Salesforce](https://img.shields.io/badge/Salesforce-7x%20Certified-00A1E0?style=flat&logo=salesforce)](#)
 [![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazon-aws)](#)
 [![Scrum Master](https://img.shields.io/badge/Agile-PSM%20I-green?style=flat)](#)
 [![Six Sigma](https://img.shields.io/badge/Quality-Lean%20Six%20Sigma%20Black%20Belt-red)](#)
