@@ -18,7 +18,7 @@
 ---
 
 ### 📜 Verified Certifications & Credentials
-* **Salesforce Core (4):** Platform Developer I | Platform Developer II | Platform App Builder | Certified Administrator
+* **Salesforce Core (7):** Platform Developer I | Platform Developer II | Platform App Builder | Certified Administrator | Platform Sharing and Visibility Architect | Platform Data Architect | Salesforce Certified Application Architect
 * **Cloud & Infrastructure:** AWS Certified Cloud Practitioner
 * **Agile & Delivery Governance:** Professional Scrum Master I (PSM I)
 * **Process Excellence & Optimization:** Advanced Lean Six Sigma Black Belt
